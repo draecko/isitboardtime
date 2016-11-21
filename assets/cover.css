@@ -112,9 +112,10 @@ body {
 .cover {
   padding: 0 20px;
 }
-.cover .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
+.cover img {
+  padding: 5px;
+  border: 1px solid white;
+  background: black;
 }
 
 
